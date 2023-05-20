@@ -1,2 +1,2 @@
-# Odalis-P-rez
+# Odalis-Pérez
 Programación para Mecatrónicos (Homeworks)
