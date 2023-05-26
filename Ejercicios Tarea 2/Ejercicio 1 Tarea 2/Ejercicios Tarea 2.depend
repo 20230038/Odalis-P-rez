@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1685109869 source:c:\ejercicios tarea 2\ejercicios tarea 2\main.c
+	<stdio.h>
+	<stdlib.h>
+
