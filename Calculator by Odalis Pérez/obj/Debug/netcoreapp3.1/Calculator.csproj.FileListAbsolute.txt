@@ -1,0 +1,32 @@
+C:\C#\Calculadora C#\ConsoleApp1\obj\Debug\netcoreapp3.1\Calculator.csproj.AssemblyReference.cache
+C:\C#\Calculadora C#\ConsoleApp1\obj\Debug\netcoreapp3.1\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Calculadora C#\ConsoleApp1\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+C:\C#\Calculadora C#\ConsoleApp1\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+C:\C#\Calculadora C#\ConsoleApp1\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+C:\C#\Calculadora C#\ConsoleApp1\obj\Debug\netcoreapp3.1\Calculadora.Form1.resources
+C:\C#\Calculadora C#\ConsoleApp1\obj\Debug\netcoreapp3.1\Calculator.csproj.GenerateResource.cache
+C:\C#\Calculadora C#\ConsoleApp1\bin\Debug\netcoreapp3.1\Calculator.exe
+C:\C#\Calculadora C#\ConsoleApp1\bin\Debug\netcoreapp3.1\Calculator.deps.json
+C:\C#\Calculadora C#\ConsoleApp1\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+C:\C#\Calculadora C#\ConsoleApp1\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+C:\C#\Calculadora C#\ConsoleApp1\bin\Debug\netcoreapp3.1\Calculator.dll
+C:\C#\Calculadora C#\ConsoleApp1\bin\Debug\netcoreapp3.1\Calculator.pdb
+C:\C#\Calculadora C#\ConsoleApp1\obj\Debug\netcoreapp3.1\Calculator.dll
+C:\C#\Calculadora C#\ConsoleApp1\obj\Debug\netcoreapp3.1\Calculator.pdb
+C:\C#\Calculadora C#\ConsoleApp1\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache
+C:\C#\Calculadora C#\Calculator by Odalis Pérez\bin\Debug\netcoreapp3.1\Calculator.exe
+C:\C#\Calculadora C#\Calculator by Odalis Pérez\bin\Debug\netcoreapp3.1\Calculator.deps.json
+C:\C#\Calculadora C#\Calculator by Odalis Pérez\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+C:\C#\Calculadora C#\Calculator by Odalis Pérez\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+C:\C#\Calculadora C#\Calculator by Odalis Pérez\bin\Debug\netcoreapp3.1\Calculator.dll
+C:\C#\Calculadora C#\Calculator by Odalis Pérez\bin\Debug\netcoreapp3.1\Calculator.pdb
+C:\C#\Calculadora C#\Calculator by Odalis Pérez\obj\Debug\netcoreapp3.1\Calculator.csproj.AssemblyReference.cache
+C:\C#\Calculadora C#\Calculator by Odalis Pérez\obj\Debug\netcoreapp3.1\Calculadora.Form1.resources
+C:\C#\Calculadora C#\Calculator by Odalis Pérez\obj\Debug\netcoreapp3.1\Calculator.csproj.GenerateResource.cache
+C:\C#\Calculadora C#\Calculator by Odalis Pérez\obj\Debug\netcoreapp3.1\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Calculadora C#\Calculator by Odalis Pérez\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+C:\C#\Calculadora C#\Calculator by Odalis Pérez\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+C:\C#\Calculadora C#\Calculator by Odalis Pérez\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+C:\C#\Calculadora C#\Calculator by Odalis Pérez\obj\Debug\netcoreapp3.1\Calculator.dll
+C:\C#\Calculadora C#\Calculator by Odalis Pérez\obj\Debug\netcoreapp3.1\Calculator.pdb
+C:\C#\Calculadora C#\Calculator by Odalis Pérez\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache
