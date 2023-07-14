@@ -1,2 +1,1 @@
-# Odalis-Pérez
-Programación para Mecatrónicos (Homeworks)
+# Calculator by Odalis Pérez
