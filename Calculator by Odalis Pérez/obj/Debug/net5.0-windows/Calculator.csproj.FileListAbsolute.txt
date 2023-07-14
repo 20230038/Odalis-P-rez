@@ -1,0 +1,36 @@
+C:\Users\Odalis Pérez\Source\Repos\Calculator-by-Odalis-P-rez\obj\Debug\net5.0-windows\Calculator.csproj.AssemblyReference.cache
+C:\Users\Odalis Pérez\Source\Repos\Calculator-by-Odalis-P-rez\obj\Debug\net5.0-windows\Calculadora.Form1.resources
+C:\Users\Odalis Pérez\Source\Repos\Calculator-by-Odalis-P-rez\obj\Debug\net5.0-windows\Calculator.csproj.GenerateResource.cache
+C:\Users\Odalis Pérez\Source\Repos\Calculator-by-Odalis-P-rez\obj\Debug\net5.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Odalis Pérez\Source\Repos\Calculator-by-Odalis-P-rez\obj\Debug\net5.0-windows\Calculator.AssemblyInfoInputs.cache
+C:\Users\Odalis Pérez\Source\Repos\Calculator-by-Odalis-P-rez\obj\Debug\net5.0-windows\Calculator.AssemblyInfo.cs
+C:\Users\Odalis Pérez\Source\Repos\Calculator-by-Odalis-P-rez\obj\Debug\net5.0-windows\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Odalis Pérez\Source\Repos\Calculator-by-Odalis-P-rez\bin\Debug\net5.0-windows\Calculator.exe
+C:\Users\Odalis Pérez\Source\Repos\Calculator-by-Odalis-P-rez\bin\Debug\net5.0-windows\Calculator.deps.json
+C:\Users\Odalis Pérez\Source\Repos\Calculator-by-Odalis-P-rez\bin\Debug\net5.0-windows\Calculator.runtimeconfig.json
+C:\Users\Odalis Pérez\Source\Repos\Calculator-by-Odalis-P-rez\bin\Debug\net5.0-windows\Calculator.runtimeconfig.dev.json
+C:\Users\Odalis Pérez\Source\Repos\Calculator-by-Odalis-P-rez\bin\Debug\net5.0-windows\Calculator.dll
+C:\Users\Odalis Pérez\Source\Repos\Calculator-by-Odalis-P-rez\bin\Debug\net5.0-windows\Calculator.pdb
+C:\Users\Odalis Pérez\Source\Repos\Calculator-by-Odalis-P-rez\obj\Debug\net5.0-windows\Calculator.dll
+C:\Users\Odalis Pérez\Source\Repos\Calculator-by-Odalis-P-rez\obj\Debug\net5.0-windows\refint\Calculator.dll
+C:\Users\Odalis Pérez\Source\Repos\Calculator-by-Odalis-P-rez\obj\Debug\net5.0-windows\Calculator.pdb
+C:\Users\Odalis Pérez\Source\Repos\Calculator-by-Odalis-P-rez\obj\Debug\net5.0-windows\Calculator.genruntimeconfig.cache
+C:\Users\Odalis Pérez\Source\Repos\Calculator-by-Odalis-P-rez\obj\Debug\net5.0-windows\ref\Calculator.dll
+C:\C#\Calculadora C#\Calculator by Odalis Pérez\bin\Debug\net5.0-windows\Calculator.exe
+C:\C#\Calculadora C#\Calculator by Odalis Pérez\bin\Debug\net5.0-windows\Calculator.deps.json
+C:\C#\Calculadora C#\Calculator by Odalis Pérez\bin\Debug\net5.0-windows\Calculator.runtimeconfig.json
+C:\C#\Calculadora C#\Calculator by Odalis Pérez\bin\Debug\net5.0-windows\Calculator.runtimeconfig.dev.json
+C:\C#\Calculadora C#\Calculator by Odalis Pérez\bin\Debug\net5.0-windows\Calculator.dll
+C:\C#\Calculadora C#\Calculator by Odalis Pérez\bin\Debug\net5.0-windows\Calculator.pdb
+C:\C#\Calculadora C#\Calculator by Odalis Pérez\obj\Debug\net5.0-windows\Calculator.csproj.AssemblyReference.cache
+C:\C#\Calculadora C#\Calculator by Odalis Pérez\obj\Debug\net5.0-windows\Calculadora.Form1.resources
+C:\C#\Calculadora C#\Calculator by Odalis Pérez\obj\Debug\net5.0-windows\Calculator.csproj.GenerateResource.cache
+C:\C#\Calculadora C#\Calculator by Odalis Pérez\obj\Debug\net5.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Calculadora C#\Calculator by Odalis Pérez\obj\Debug\net5.0-windows\Calculator.AssemblyInfoInputs.cache
+C:\C#\Calculadora C#\Calculator by Odalis Pérez\obj\Debug\net5.0-windows\Calculator.AssemblyInfo.cs
+C:\C#\Calculadora C#\Calculator by Odalis Pérez\obj\Debug\net5.0-windows\Calculator.csproj.CoreCompileInputs.cache
+C:\C#\Calculadora C#\Calculator by Odalis Pérez\obj\Debug\net5.0-windows\Calculator.dll
+C:\C#\Calculadora C#\Calculator by Odalis Pérez\obj\Debug\net5.0-windows\refint\Calculator.dll
+C:\C#\Calculadora C#\Calculator by Odalis Pérez\obj\Debug\net5.0-windows\Calculator.pdb
+C:\C#\Calculadora C#\Calculator by Odalis Pérez\obj\Debug\net5.0-windows\Calculator.genruntimeconfig.cache
+C:\C#\Calculadora C#\Calculator by Odalis Pérez\obj\Debug\net5.0-windows\ref\Calculator.dll

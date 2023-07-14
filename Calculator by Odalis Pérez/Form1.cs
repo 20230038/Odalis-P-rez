@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Calculadora
@@ -14,6 +7,7 @@ namespace Calculadora
     {
         double Numero1 = 0, Numero2 = 0;
         char Operador;
+        bool negativo = false;
 
         public Form1()
         {
@@ -65,13 +59,9 @@ namespace Calculadora
 
         private void btnQuitar_Click(object sender, EventArgs e)
         {
-            if (txtResultado.Text.Length > 1)
+            if (txtResultado.Text.Length > 0)
             {
                 txtResultado.Text = txtResultado.Text.Substring(0, txtResultado.Text.Length - 1);
-            }
-            else
-            {
-                txtResultado.Text = "0";
             }
         }
 
@@ -98,9 +88,20 @@ namespace Calculadora
 
         private void btnSigno_Click(object sender, EventArgs e)
         {
-            Numero1 = Convert.ToDouble(txtResultado.Text);
-            Numero1 *= -1;
-            txtResultado.Text = Numero1.ToString();
+            double numero = Convert.ToDouble(txtResultado.Text);
+
+            if (!negativo)
+            {
+                numero *= -1;
+                negativo = true;
+            }
+            else
+            {
+                numero *= -1;
+                negativo = false;
+            }
+
+            txtResultado.Text = numero.ToString();
         }
 
         private void clickOperador(object sender, EventArgs e)
