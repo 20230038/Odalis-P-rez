@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TaEO2NytRgykuFM6atO39j1RGFt/7RZ4CIYRpKfrJ9MR7SYLISXNeaXAsgrizxfOkWft4wd6351kNnQvcyI/xA==",
+  "success": true,
+  "projectFilePath": "C:\\C#\\ListBD\\BD\\ListBD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Odalis Pérez\\.nuget\\packages\\litedb\\5.0.16\\litedb.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

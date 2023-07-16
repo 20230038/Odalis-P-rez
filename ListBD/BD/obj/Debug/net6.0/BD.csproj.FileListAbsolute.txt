@@ -1,0 +1,17 @@
+C:\C#\BD\BD\bin\Debug\net6.0\BD.exe
+C:\C#\BD\BD\bin\Debug\net6.0\BD.deps.json
+C:\C#\BD\BD\bin\Debug\net6.0\BD.runtimeconfig.json
+C:\C#\BD\BD\bin\Debug\net6.0\BD.dll
+C:\C#\BD\BD\bin\Debug\net6.0\BD.pdb
+C:\C#\BD\BD\obj\Debug\net6.0\BD.csproj.AssemblyReference.cache
+C:\C#\BD\BD\obj\Debug\net6.0\BD.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\BD\BD\obj\Debug\net6.0\BD.AssemblyInfoInputs.cache
+C:\C#\BD\BD\obj\Debug\net6.0\BD.AssemblyInfo.cs
+C:\C#\BD\BD\obj\Debug\net6.0\BD.csproj.CoreCompileInputs.cache
+C:\C#\BD\BD\obj\Debug\net6.0\BD.dll
+C:\C#\BD\BD\obj\Debug\net6.0\refint\BD.dll
+C:\C#\BD\BD\obj\Debug\net6.0\BD.pdb
+C:\C#\BD\BD\obj\Debug\net6.0\BD.genruntimeconfig.cache
+C:\C#\BD\BD\obj\Debug\net6.0\ref\BD.dll
+C:\C#\BD\BD\bin\Debug\net6.0\LiteDB.dll
+C:\C#\BD\BD\obj\Debug\net6.0\BD.csproj.CopyComplete
