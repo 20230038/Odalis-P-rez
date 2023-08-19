@@ -1,0 +1,15 @@
+C:\C#\Proyecto de Diagnostico\Proyecto Diagnostico\bin\Debug\net7.0\Proyecto Diagnostico.exe
+C:\C#\Proyecto de Diagnostico\Proyecto Diagnostico\bin\Debug\net7.0\Proyecto Diagnostico.deps.json
+C:\C#\Proyecto de Diagnostico\Proyecto Diagnostico\bin\Debug\net7.0\Proyecto Diagnostico.runtimeconfig.json
+C:\C#\Proyecto de Diagnostico\Proyecto Diagnostico\bin\Debug\net7.0\Proyecto Diagnostico.dll
+C:\C#\Proyecto de Diagnostico\Proyecto Diagnostico\bin\Debug\net7.0\Proyecto Diagnostico.pdb
+C:\C#\Proyecto de Diagnostico\Proyecto Diagnostico\obj\Debug\net7.0\Proyecto Diagnostico.csproj.AssemblyReference.cache
+C:\C#\Proyecto de Diagnostico\Proyecto Diagnostico\obj\Debug\net7.0\Proyecto Diagnostico.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Proyecto de Diagnostico\Proyecto Diagnostico\obj\Debug\net7.0\Proyecto Diagnostico.AssemblyInfoInputs.cache
+C:\C#\Proyecto de Diagnostico\Proyecto Diagnostico\obj\Debug\net7.0\Proyecto Diagnostico.AssemblyInfo.cs
+C:\C#\Proyecto de Diagnostico\Proyecto Diagnostico\obj\Debug\net7.0\Proyecto Diagnostico.csproj.CoreCompileInputs.cache
+C:\C#\Proyecto de Diagnostico\Proyecto Diagnostico\obj\Debug\net7.0\Proyecto Diagnostico.dll
+C:\C#\Proyecto de Diagnostico\Proyecto Diagnostico\obj\Debug\net7.0\refint\Proyecto Diagnostico.dll
+C:\C#\Proyecto de Diagnostico\Proyecto Diagnostico\obj\Debug\net7.0\Proyecto Diagnostico.pdb
+C:\C#\Proyecto de Diagnostico\Proyecto Diagnostico\obj\Debug\net7.0\Proyecto Diagnostico.genruntimeconfig.cache
+C:\C#\Proyecto de Diagnostico\Proyecto Diagnostico\obj\Debug\net7.0\ref\Proyecto Diagnostico.dll
